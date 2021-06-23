@@ -1,0 +1,3 @@
+Simplified version of the EnergyScope Pathway. This version has a time step of 10 years instead of 5 between the representative years. 
+
+This model was developed by Benjamin Goffaux and is described in his master thesis : "Pathway towards energy sustainability in Belgium under uncertainties". In this master thesis, the EnergyScope Pathway and this simplified version are compared to prove that the error made is less than 1%. 
