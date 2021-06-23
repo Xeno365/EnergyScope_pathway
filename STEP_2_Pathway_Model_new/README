@@ -1,0 +1,11 @@
+Upgrades made by Goffaux Benjamin during his master thesis : "Pathway towards energy sustainability in Belgium under uncertainties". 
+
+Uploaded on June 23 2021
+
+New version of the EnergyScope Pathway model. This version is an upgrade version of the old EnergyScope Pathway. 
+
+In this version, the 2015 and the 2020 energy system are fixed to represent the Belgium energy system of those years, while only the 2015 energy system was fixed in the old version. 
+
+In this version, the installation of PV panels and wind turbines is limited during a phase.
+
+The salvage value of a technology is taken into account at the end of the transition. PESTD_data_years_done.dat is the years that a technology, built in a certain phase, has done at the end of the transition. This is used to compute the salvage value. For more informations, see the master thesis cited above. 
